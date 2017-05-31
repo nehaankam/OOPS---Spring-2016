@@ -1,0 +1,72 @@
+New Car Taken for Rent:
+
+Testing ToString()
+The base car rental amount is: $23.0, weekend rate: 11.5%, number of days are: 1, age of the driver is: 34, insurance amount is: $50.0, starting day is: 6
+
+Testing Getters:
+Base car rental amount per day is: $23.0
+Weekend rate in percentage is: 11.5
+Number of days are: 1
+Age of the driver is: 34 years
+The insurance amount is: $50.0
+
+Testing getInsuranceAmount(int age)
+The insurance amount to be paid by the driver is: $50.0
+
+TESTING getTotalRental(int day, int numberOfDays, int age)
+Total Amount to be paid by the driver: $75.645
+*******************************************
+New Car Taken for Rent:
+
+Testing ToString()
+The base car rental amount is: $20.0, weekend rate: 10.0%, number of days are: 24, age of the driver is: 22, insurance amount is: $20.0, starting day is: 4
+
+Testing Getters:
+Base car rental amount per day is: $20.0
+Weekend rate in percentage is: 10.0
+Number of days are: 24
+Age of the driver is: 22 years
+The insurance amount is: $20.0
+
+Testing getInsuranceAmount(int age)
+The insurance amount to be paid by the driver is: $22.0
+
+TESTING getTotalRental(int day, int numberOfDays, int age)
+Total Amount to be paid by the driver: $510.0
+*******************************************
+New Car Taken for Rent:
+
+Testing ToString()
+The base car rental amount is: $15.0, weekend rate: 14.75%, number of days are: 10, age of the driver is: 29, insurance amount is: $35.0, starting day is: 5
+
+Testing Getters:
+Base car rental amount per day is: $15.0
+Weekend rate in percentage is: 14.75
+Number of days are: 10
+Age of the driver is: 29 years
+The insurance amount is: $35.0
+
+Testing getInsuranceAmount(int age)
+The insurance amount to be paid by the driver is: $35.0
+
+TESTING getTotalRental(int day, int numberOfDays, int age)
+Total Amount to be paid by the driver: $191.6375
+*******************************************
+New Car Taken for Rent:
+
+Testing ToString()
+The base car rental amount is: $100.0, weekend rate: 10.0%, number of days are: 9, age of the driver is: 22, insurance amount is: $50.0, starting day is: 6
+
+Testing Getters:
+Base car rental amount per day is: $100.0
+Weekend rate in percentage is: 10.0
+Number of days are: 9
+Age of the driver is: 22 years
+The insurance amount is: $50.0
+
+Testing getInsuranceAmount(int age)
+The insurance amount to be paid by the driver is: $55.0
+
+TESTING getTotalRental(int day, int numberOfDays, int age)
+Total Amount to be paid by the driver: $985.0
+*******************************************
