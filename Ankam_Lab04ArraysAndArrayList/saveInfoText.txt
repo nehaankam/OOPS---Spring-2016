@@ -1,0 +1,50 @@
+Total Coach objects created from coach.txt =10
+
+Contents of coach list (10 coach members)
+Name: Greg Chappel; Salary: $97409.34
+Name: Gary Kirsten; Salary: $43000.15
+Name: Darren Lehman; Salary: $28403.26
+Name: Bob Wolmer; Salary: $54000.89
+Name: Wasim Akram; Salary: $98603.47
+Name: Alan Donald; Salary: $84801.41
+Name: Ian Bishop; Salary: $64903.49
+Name: Stephen Fleming; Salary: $99909.36
+Name: John Wright; Salary: $78406.32
+Name: Duncan Fletcher; Salary: $36543.47
+
+Average salary: $68598.12
+
+Adding one coach to end of list
+Successfully added
+
+Attempting to add one coach to list at index 3
+Successfully added
+
+Attempting to add one coach to list at index 40
+Unable to add coach
+
+Number of coach members in list: 12
+Attempting to remove coach at index equal to the number of coach members in the list(currently 12)
+Unable to remove
+
+Attempting to remove coach at index 5
+Successfully removed
+
+Attempting to remove coach at index 20
+Unable to remove
+
+Contents of coach list (11 coach members)
+Contents of list
+Name: Greg Chappel; Salary: $97409.34
+Name: Gary Kirsten; Salary: $43000.15
+Name: Darren Lehman; Salary: $28403.26
+Name: Bilbo Baggins; Salary: $45000.48
+Name: Bob Wolmer; Salary: $54000.89
+Name: Alan Donald; Salary: $84801.41
+Name: Ian Bishop; Salary: $64903.49
+Name: Stephen Fleming; Salary: $99909.36
+Name: John Wright; Salary: $78406.32
+Name: Duncan Fletcher; Salary: $36543.47
+Name: Gwen DeMarco; Salary: $39000.45
+
+Average salary: $61034.42
