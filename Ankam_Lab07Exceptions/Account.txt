@@ -1,0 +1,13 @@
+IndividualSavingAccount
+123456789 10000 14273 John Cena 45
+IndividualSavingAccount
+999993333 6000 10479 Michael Clark 15
+FamilySavingAccount
+343434555 40000 18011 3
+Anushka Sharma 45
+Rohit Sharma 48
+Ishant Sharma 19
+JointCheckingAccount
+123434252 10500 28012 2
+Sonu Nigam 39
+Sonu Sood 27
