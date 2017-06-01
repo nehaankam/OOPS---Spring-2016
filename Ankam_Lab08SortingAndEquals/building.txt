@@ -1,0 +1,6 @@
+StudentUnion NMSU-Maryville 24 Ashley 121345987 3
+DieterichHall NMSU-Maryville 14 Foot 987345187 1
+ColdenHall NMSU_Maryville 10 Christain 254119876 5
+PhillipsHall NMSU-Maryville 4 Denver 647341187 2
+ValkCenter NMSU_Maryville 22 Bale 754219867 5
+RobertaHall NMSU-Maryville 22 James 327341387 3
